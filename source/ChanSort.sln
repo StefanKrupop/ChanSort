@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChanSort.Loader.SilvaSchnei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChanSort.Loader.Sony", "ChanSort.Loader.Sony\ChanSort.Loader.Sony.csproj", "{70E29C6B-B926-4859-9548-23375BF1E1B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChanSort.Loader.Philips", "ChanSort.Loader.Philips\ChanSort.Loader.Philips.csproj", "{45E152A3-6F0F-4B04-ADB1-568A9763718B}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChanSort.Loader.PhilipsXml", "ChanSort.Loader.PhilipsXml\ChanSort.Loader.PhilipsXml.csproj", "{D7BAFD55-50F5-46C3-A76B-2193BED5358F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Loader.GlobalClone", "Test.Loader.GlobalClone\Test.Loader.GlobalClone.csproj", "{AA31A65D-9437-42AE-89C8-98C7392B450D}"
@@ -278,6 +280,18 @@ Global
 		{70E29C6B-B926-4859-9548-23375BF1E1B5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{70E29C6B-B926-4859-9548-23375BF1E1B5}.Release|x86.ActiveCfg = Release|x86
 		{70E29C6B-B926-4859-9548-23375BF1E1B5}.Release|x86.Build.0 = Release|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Debug|x86.ActiveCfg = Debug|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Debug|x86.Build.0 = Debug|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Release|x86.ActiveCfg = Release|x86
+		{45E152A3-6F0F-4B04-ADB1-568A9763718B}.Release|x86.Build.0 = Release|x86
 		{D7BAFD55-50F5-46C3-A76B-2193BED5358F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D7BAFD55-50F5-46C3-A76B-2193BED5358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7BAFD55-50F5-46C3-A76B-2193BED5358F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
